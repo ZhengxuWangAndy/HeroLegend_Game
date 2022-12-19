@@ -1,6 +1,7 @@
 ## Hero & Legends
 ---------------------------------------------------------------------------
-
+![image](https://github.com/ZhengxuWangAndy/HeroLegend_Game/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.40.37%20AM.png)
+![image](https://github.com/ZhengxuWangAndy/HeroLegend_Game/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.40.00%20AM.png)
 ## Files
 ---------------------------------------------------------------------------
 <A brief description of each file and what it does>
